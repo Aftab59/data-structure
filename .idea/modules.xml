@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataStrctureAndAlgorithm.iml" filepath="$PROJECT_DIR$/DataStrctureAndAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataStrctureAndAlgorithm.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DataStrctureAndAlgorithm.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DataStrctureAndAlgorithm.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DataStrctureAndAlgorithm.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/data-structure.iml" filepath="$PROJECT_DIR$/.idea/data-structure.iml" />
     </modules>
   </component>
